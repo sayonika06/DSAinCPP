@@ -1,0 +1,1 @@
+ printf("Sorted list in ascending order:\n");
